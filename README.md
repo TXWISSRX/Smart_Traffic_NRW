@@ -5,8 +5,10 @@
 The prevalent problem addressed by the project is the significant amount of time wasted in traffic congestion.
 
 
-![Screenshot 2023-07-07 001817](https://github.com/TXWISSRX/Smart_Traffic_NRW/assets/119014917/ef6f4ea9-9860-4251-abf2-6cdd056bc739)
 
+<div align="center">
+  <img src="https://github.com/TXWISSRX/Smart_Traffic_NRW/assets/119014917/ef6f4ea9-9860-4251-abf2-6cdd056bc739" alt="Robot Image">
+</div>
 
 ## Table of Contents
 - [Introduction](#introduction)
