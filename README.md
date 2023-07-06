@@ -2,7 +2,7 @@
 # Traffic Signal Optimization System
 
 ## Problem
-The prevalent problem addressed by the project is the significant amount of time wasted in traffic congestion.
+### The prevalent problem addressed by the project is the significant amount of time wasted in traffic congestion.
 
 
 
