@@ -19,7 +19,25 @@ The Traffic Signal Optimization System is a project aimed at tackling the issue 
 - Data-driven approach using traffic data and machine learning algorithms.
 - User-friendly interface for configuration and monitoring.
 
+## Technologies Used
+The Traffic Signal Optimization System utilizes the following technologies:
+
+- **Solidworks**: Used for designing and modeling the physical structure and layout of traffic signal systems.
+
+- **YOLOv7**: An object detection algorithm used for real-time traffic analysis and vehicle detection.
+
+- **Arduino**: An open-source electronics platform used for controlling and interfacing with the traffic signal hardware.
+
+- **Firebase**: A real-time database and backend-as-a-service platform used for storing and retrieving traffic data and configurations.
+
+- **React**: A JavaScript library used for building user interfaces, providing a user-friendly interface for system configuration and monitoring.
+
+- **OpenCV**: An open-source computer vision library used for image processing, allowing for traffic analysis and vehicle detection.
+
 ## Installation
 ### Prerequisites
 - Python 3.x
 - [Pip](https://pip.pypa.io/en/stable/) (Python package manager)
+- Arduino IDE
+- Solidworks (optional)
+
