@@ -29,6 +29,7 @@ The Traffic Signal Optimization System is a project aimed at tackling the issue 
 ## Technologies Used
 The Traffic Signal Optimization System utilizes the following technologies:
 
+### Software
 - **Solidworks**: Used for designing and modeling the physical structure and layout of traffic signal systems.
 
 - **YOLOv7**: An object detection algorithm used for real-time traffic analysis and vehicle detection.
@@ -40,7 +41,13 @@ The Traffic Signal Optimization System utilizes the following technologies:
 - **React**: A JavaScript library used for building user interfaces, providing a user-friendly interface for system configuration and monitoring.
 
 - **OpenCV**: An open-source computer vision library used for image processing, allowing for traffic analysis and vehicle detection.
+### Hardware
 
+- **ESP32**: A powerful microcontroller board with built-in Wi-Fi and Bluetooth capabilities, used for controlling the traffic signal lights and communicating with other components of the system.
+
+- **Raspberry Pi 4**: A single-board computer used for running the software components of the Traffic Signal Optimization System, including the object detection algorithm, database communication, and user interface.
+
+- **LEDs**: Light-emitting diodes are used as the actual traffic signal lights. They are connected to the ESP32 board and controlled based on the system's optimization algorithms and traffic conditions.
 ## Installation
 ### Prerequisites
 - Python 3.x
