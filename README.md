@@ -35,7 +35,6 @@ The Traffic Signal Optimization System utilizes the following technologies:
 ## Installation
 ### Prerequisites
 - Python 3.x
-- [Pip](https://pip.pypa.io/en/stable/) (Python package manager)
 - Arduino IDE
 - Solidworks (optional)
-
+- Anaconda 
