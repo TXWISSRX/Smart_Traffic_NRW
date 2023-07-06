@@ -2,7 +2,7 @@
 # Traffic Signal Optimization System
 
 ## Problem
-Our project addresses the prevalent problem of time wasted in traffic through the implementation of an optimized traffic signal timing system. With a focus on busy roads, our solution aims to minimize congestion and improve the flow of vehicles by extending the duration of green lights. By reducing the amount of time commuters spend waiting at red lights, we aim to create smoother traffic movements, enhance overall efficiency, and ultimately save valuable time for individuals and the community at large. Through this innovative approach, we strive to make a significant impact on the issue of time waste in traffic.
+The prevalent problem addressed by the project is the significant amount of time wasted in traffic congestion.
 
 
 ![Screenshot 2023-07-07 001817](https://github.com/TXWISSRX/Smart_Traffic_NRW/assets/119014917/ef6f4ea9-9860-4251-abf2-6cdd056bc739)
