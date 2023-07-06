@@ -4,10 +4,8 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
+- [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 The Traffic Signal Optimization System is a project aimed at tackling the issue of time waste in traffic by implementing an intelligent system that optimizes traffic signal timings. By increasing the duration of green lights on busy roads, we can minimize congestion and enhance the flow of vehicles, ultimately reducing the time commuters spend waiting at red lights. This project aims to provide a smoother traffic experience, improved efficiency, and time savings for individuals and the community as a whole.
