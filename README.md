@@ -14,7 +14,9 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [System Architecture](#system-architecture)
 - [Installation](#installation)
+- [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
