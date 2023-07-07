@@ -100,4 +100,4 @@ We would like to thank the following individuals and organizations for their con
 - Firebase: For the real-time database and backend-as-a-service platform used for storing and retrieving traffic data and configurations.
 - React: For the JavaScript library used for building user interfaces, providing a user-friendly interface for system configuration and monitoring.
 - OpenCV: For the open-source computer vision library used for image processing, allowing for traffic analysis and vehicle detection.
-- Our contributors and the open-source community: For their valuable contributions and feedback to improve the Traffic Signal Optimization System.
+
