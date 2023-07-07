@@ -68,9 +68,7 @@ The Traffic Signal Optimization System utilizes the following technologies:
 
 ## System Architecture
 
-<div align="center">
-  <img src="https://github.com/TXWISSRX/Smart_Traffic_NRW/assets/119014917/203e7913-a2b0-4e15-a335-1ee17416f7bc" alt="Robot Image"  width="600" height="400">
-</div>
+
 <br>
 
 The Traffic Signal Optimization System follows a client-server architecture. The Raspberry Pi 4 serves as the central server, running the main software components and coordinating the operation of the system. The ESP32 boards are used as clients, responsible for controlling the traffic signal lights at each intersection.
