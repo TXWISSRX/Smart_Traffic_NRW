@@ -40,7 +40,7 @@ The Traffic Signal Optimization System utilizes the following technologies:
 
 
 <div align="center">
-  <img src="https://github.com/TXWISSRX/Smart_Traffic_NRW/assets/119014917/ef6f4ea9-9860-4251-abf2-6cdd056bc739" alt="Robot Image">
+  <img src="https://github.com/TXWISSRX/Smart_Traffic_NRW/assets/119014917/4bb66328-cdee-490a-84ba-e611507cd757" alt="Robot Image"  width="600" height="120">
 </div>
 
 - **Solidworks**: Used for designing and modeling the physical structure and layout of traffic signal systems.
